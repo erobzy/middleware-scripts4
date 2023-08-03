@@ -1,6 +1,6 @@
 #!/bin/bash
 
-  # Author----Kazeem
+  # Author----Eric
   #Date-------Nov-02-2022
   #Description---Script that will install Docker-compose on Ubuntu
 
