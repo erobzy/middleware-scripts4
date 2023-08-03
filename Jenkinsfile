@@ -4,7 +4,7 @@
     stages{
         stage("build"){
             steps{
-                zip middlewareScript-${BUILD_NUMBER}.zip * --exclude Jenkinsfile README.md
+                zip middlewareScript4-${BUILD_NUMBER}.zip * --exclude Jenkinsfile README.md
             }
         }
     }
